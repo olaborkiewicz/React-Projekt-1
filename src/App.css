@@ -160,7 +160,7 @@ body {
 #main_section {
   height: 100vh;
   width: 100%;
-  background: url(image.jpg);
+  background: url("./assets/image.jpg");
 }
 
 #main_section,
@@ -276,12 +276,12 @@ body {
 }
 
 .circle:nth-of-type(odd) {
-  background-image: url(woman.jpg);
+  background-image: url("./assets/woman.jpg");
   margin: 0 35px 0 0;
 }
 
 .circle:nth-of-type(even) {
-  background-image: url(man.jpg);
+  background-image: url("./assets/man.jpg");
   margin: 150px 0 0 35px;
   order: 4;
 }
