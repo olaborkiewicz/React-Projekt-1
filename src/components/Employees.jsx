@@ -34,7 +34,6 @@ const Employees = () => {
     <section id="about">
       <div className="container">
         <h2 className="header3">Nasi specjaliści</h2>
-
         {workers.map((item) => (
           <div className="container_workers">
             <div

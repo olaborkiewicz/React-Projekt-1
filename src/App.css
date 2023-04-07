@@ -277,12 +277,10 @@ body {
 }
 
 .container_workers:nth-of-type(odd) .circle {
-  /*background-image: url("./assets/woman.jpg");*/
   margin: 0 35px 0 0;
 }
 
 .container_workers:nth-of-type(even) .circle {
-  /*background-image: url("./assets/man.jpg");*/
   margin: 150px 0 0 35px;
   order: 4;
 }
