@@ -1,6 +1,4 @@
-import React from "react";
-
-let workers = [
+const workers = [
   {
     key: 1,
     name: "Justyna Kowalska",
