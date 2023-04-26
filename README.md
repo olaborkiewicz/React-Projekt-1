@@ -1,6 +1,6 @@
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="100px" height="100px" align="center">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="100px" height="100px" >
 </h1>
 
 <h4 align="center">React Website Project</h4>
